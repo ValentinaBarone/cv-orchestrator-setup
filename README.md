@@ -21,7 +21,7 @@ Instrucciones: Copia y pega aquí el texto completo de las Instrucciones Maestra
 Capacidades (Capabilities): Asegúrate de que todas las opciones estén desactivadas.
 
 3. Carga de Habilidades (Skills)
-Descarga en tu computadora las 8 habilidades (Skills) que te han sido proporcionadas.
+Descarga en tu computadora las 8 habilidades (Skills) que te han sido proporcionadas en el archivo skills.
 
 En la configuración del agente, haz clic en "Añadir habilidad" (o "Add skill").
 
