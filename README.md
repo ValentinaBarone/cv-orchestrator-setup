@@ -39,7 +39,8 @@ Cada vez que necesites procesar un CV:
 
 Abre tu nuevo Agente desde el menú lateral.
 
-Escribe tu instrucción: "Procesa el siguiente CV para el puesto de [Nombre del Puesto]: [Pega el texto del CV]".
-
+Escribe tu instrucción: 
+Para un puesto en especifico: "Procesa el siguiente CV para el puesto de [Nombre del Puesto o Descripcion del Puesto]: [Pega el texto o archivo del CV]".
+Para procesar CV sin ningun puesto en especifico:  "Procesa el siguiente CV  [Pega el texto o archivo del CV]".
 El Agente entregará el resultado directamente en formato Markdown, siguiendo estrictamente el protocolo definido y utilizando las 8 habilidades cargadas en el sistema.
 
